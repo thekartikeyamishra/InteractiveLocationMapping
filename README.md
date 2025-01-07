@@ -34,7 +34,7 @@ This tool is particularly useful for:
 ### Step 1: Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone [https://github.com/thekartikeyamishra/InteractiveLocationMapping.git](https://github.com/thekartikeyamishra/InteractiveLocationMapping).git
+git clone https://github.com/thekartikeyamishra/InteractiveLocationMapping.git
 cd InteractiveLocationMapping
 ```
 
